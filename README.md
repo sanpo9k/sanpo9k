@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rio Sidqi</h1>
+<h1 align="left">Hi 👋, I'm Rio Sidqi</h1>
 <h3 align="left">I'm passionate about front-end development and love exploring experimental UIs!</h3>
+
+<br>
 
 - 🌱 I’m currently learning **Next.JS and Blender!**
 
@@ -7,6 +9,7 @@
 
 - 📫 How to reach me **riosidqi21@gmail.com**
 
+<br>
 
 <p align="left">
   <!-- React -->
