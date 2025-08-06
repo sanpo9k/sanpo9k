@@ -1,13 +1,15 @@
-<div align="left" style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>Hello 👋, I'm Rio Sidqi</h1>
-  <img src="https://github.com/user-attachments/assets/53076056-3c8e-4903-adf4-5a124e18f6d6" alt="kirby-cute" width="60" />
-</div>
+<!-- Cute kirby image (optional or aesthetic) -->
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/53076056-3c8e-4903-adf4-5a124e18f6d6" alt="kirby-cute" width="120"/>
+</p>
+
+<h1 align="left">Hello 👋, I'm Rio Sidqi</h1>
 <h3 align="left">I'm passionate about front-end development and love exploring experimental UIs!</h3>
 
 ---
 
 - 🌱 Currently diving into **Next.js** and **Blender**
-- 👨‍💻 Check out my projects: [riosidqiportofolio.vercel.app](https://riosidqiportofolio.vercel.app/)
+- 👨‍💻 Check out my personal website: [riosidqiportofolio.vercel.app](https://riosidqiportofolio.vercel.app/)
 - 📫 Reach me at: **riosidqi21@gmail.com**
 
 ---
