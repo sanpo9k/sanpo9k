@@ -108,4 +108,4 @@
   </a>
 </p>
 
-https://tenor.com/view/tamagotchi-maskutchi-gif-10252521455750397759
+<div class="tenor-gif-embed" data-postid="10252521455750397759" data-share-method="host" data-aspect-ratio="0.93617" data-width="100%"><a href="https://tenor.com/view/tamagotchi-maskutchi-gif-10252521455750397759">Tamagotchi Maskutchi Sticker</a>from <a href="https://tenor.com/search/tamagotchi-stickers">Tamagotchi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
