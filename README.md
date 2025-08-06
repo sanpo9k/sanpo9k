@@ -1,8 +1,6 @@
 <h1 align="left">Hello 👋, I'm Rio Sidqi</h1>
 <h3 align="left">I'm passionate about front-end development and love exploring experimental UIs!</h3>
 
-![kirby-cute](https://github.com/user-attachments/assets/8b8bd495-c0b3-4259-a211-b8a65bffd5c3)
-
 <br>
 
 - 🌱 I’m currently learning **Next.JS and Blender!**
@@ -107,5 +105,8 @@
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+
+  ![kirby-cute](https://github.com/user-attachments/assets/53076056-3c8e-4903-adf4-5a124e18f6d6)
   </a>
 </p>
