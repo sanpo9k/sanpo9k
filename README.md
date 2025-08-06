@@ -1,8 +1,6 @@
 <h1 align="left">Hello 👋, I'm Rio Sidqi</h1>
 <h3 align="left">I'm passionate about front-end development and love exploring experimental UIs!</h3>
-
 <br>
-
 - 🌱 I’m currently learning **Next.JS and Blender!**
 
 - 👨‍💻 All of my projects are available at [https://riosidqiportofolio.vercel.app/](https://riosidqiportofolio.vercel.app/)
