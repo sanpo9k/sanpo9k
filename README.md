@@ -1,3 +1,8 @@
+<!-- Cute kirby image (optional or aesthetic) -->
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/53076056-3c8e-4903-adf4-5a124e18f6d6" alt="kirby-cute" width="120"/>
+</p>
+
 <h1 align="left">Hello 👋, I'm Rio Sidqi</h1>
 <h3 align="left">I'm passionate about front-end development and love exploring experimental UIs!</h3>
 
@@ -88,9 +93,4 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   </a>
-</p>
-
-<!-- Cute kirby image (optional or aesthetic) -->
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/53076056-3c8e-4903-adf4-5a124e18f6d6" alt="kirby-cute" width="120"/>
 </p>
