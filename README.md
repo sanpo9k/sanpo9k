@@ -8,7 +8,8 @@
 
 ---
 
-- 🌱 Currently diving into **Next.js** and **Blender**
+- 🗿 I do little bit of this and that
+- 🌱 Currently diving into **Next.JS** and **Blender**
 - 👨‍💻 Check out my personal website: [riosidqiportofolio.vercel.app](https://riosidqiportofolio.vercel.app/)
 - 📫 Reach me at: **riosidqi21@gmail.com**
 
