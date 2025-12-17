@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
   <div>
-    <h1 align="left">Hello👋 passerby</h1>
+    <h1 align="left">Hello👋 Anon</h1>
     <h3 align="left">I'm passionate about front-end development and love exploring experimental UIs!</h3>
   </div>
   <img src="https://github.com/user-attachments/assets/53076056-3c8e-4903-adf4-5a124e18f6d6" alt="kirby-cute" width="80"/>
